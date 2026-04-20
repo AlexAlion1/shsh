@@ -65,7 +65,7 @@ def admin_reply(message):
 
         bot.send_message(
             ADMIN_ID,
-            f"Ваше сообщение:\n{message.text}\nУ спешно доставлено!"
+            f"Ваше сообщение:\n{message.text}\nУспешно доставлено!"
         )
 
 
